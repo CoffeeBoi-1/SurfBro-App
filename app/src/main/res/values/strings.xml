@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">server_v1</string>
+    <string name="firestore_url" translatable="false">FirestoreURL</string>
+    <string name="final_url" translatable="false">FinalURL</string>
+    <string name="default_notification_channel_id">messaging_channel</string>
+    <string name="default_notification_channel_name">name</string>
+</resources>
